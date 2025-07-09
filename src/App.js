@@ -30,7 +30,7 @@ I've searched our records and was unable to locate a business matching "${busine
 
 If you continue to experience issues, please escalate to the verification team for manual review.
 
-Best regards,  
+Best,  
 Support Team`
     },
     einMismatch: {
